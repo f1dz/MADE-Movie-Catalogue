@@ -2,6 +2,9 @@
     <string name="app_name">Movie Catalogue</string>
     <string name="movie_title">Title</string>
     <string name="movie_description">Description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="movie_poster">Movie Poster</string>
 
     <string-array name="data_movie">
         <item>Captain Marvel</item>
