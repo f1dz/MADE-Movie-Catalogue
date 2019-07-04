@@ -1,3 +1,56 @@
 <resources>
     <string name="app_name">Movie Catalogue</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_description">Description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="movie_poster">Movie Poster</string>
+
+    <string-array name="data_movie">
+        <item>Captain Marvel</item>
+        <item>Toy Story 4</item>
+        <item>Dumbo</item>
+        <item>The Wolf’s Call</item>
+        <item>Escape Plan: The Extractors</item>
+        <item>Aquaman</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Murder Mystery</item>
+        <item>Avengers: Endgame</item>
+        <item>Avengers: Infinity War</item>
+        <item>Game of Thrones</item>
+        <item>Chernobyl</item>
+        <item>A Star Is Born</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that’s Andy or Bonnie. But when Bonnie adds a reluctant new toy called Forky to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+        <item>A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</item>
+        <item>In the near future, a French submarine finds itself in a crisis situation.</item>
+        <item>After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin’s girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm’s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>After attending a gathering on a billionaire’s yacht during a European vacation, a New York cop and his wife become prime suspects when he’s murdered.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos’ actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night’s Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>A dramatization of the true story of one of the worst man-made catastrophes in history, the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally’s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/poster_1</item>
+        <item>@drawable/poster_2</item>
+        <item>@drawable/poster_3</item>
+        <item>@drawable/poster_4</item>
+        <item>@drawable/poster_5</item>
+        <item>@drawable/poster_6</item>
+        <item>@drawable/poster_7</item>
+        <item>@drawable/poster_8</item>
+        <item>@drawable/poster_9</item>
+        <item>@drawable/poster_10</item>
+        <item>@drawable/poster_11</item>
+        <item>@drawable/poster_12</item>
+        <item>@drawable/poster_13</item>
+    </string-array>
 </resources>
